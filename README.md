@@ -9,7 +9,7 @@
 - [귤 고르기](https://github.com/fatherLeon/BeMyself/tree/main/알고리즘/Programmers/귤%20고르기)
 - [롤케이크 자르기](https://github.com/fatherLeon/BeMyself/tree/main/알고리즘/Programmers/롤케이크%20자르기)
 - [할인 행사](https://github.com/fatherLeon/BeMyself/tree/main/알고리즘/Programmers/할인%20행사)
-
+- [피로도](https://github.com/fatherLeon/BeMyself/tree/main/알고리즘/Programmers/피로도)
 ## Baekjoon
 
 ## Commit 메시지 규칙
