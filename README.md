@@ -12,14 +12,24 @@
 - [피로도](https://github.com/fatherLeon/BeMyself/tree/main/알고리즘/Programmers/피로도)
 ## Baekjoon
 
-## Commit 메시지 규칙
+- [백준1021 - 회전하는 큐](https://leonfather.tistory.com/2)
 
-* 명렁어로 서술(추가, 변경, 수정)
+## Commit 컨벤션
+```
+<head>(subject)
 
-* 폴더 -> 파일내용으로 작성(프로그래머스 롤케이크 자르기, 알고리즘 스택)
+<body>
 
-### Example
+<footer>
+```
+* head, body, footer은 서로 줄바꿈(Enter)로 구분을 한다.
 
-* 프로그래머스 롤케이크 자르기 추가
-* README 수정
-* 알고리즘 순환버퍼 수정
+|head|body|footer|
+| :-----: | :-----: | :-----: |
+| 제목은 명령어로 간단하게(ex: Add 22.12.30.(금)TIL 추가) | 내용은 TIL에 있는 내용(ex: Closure, Type Properties 내용 추가) | 명령어만 짧고 간단하게(ex: Add) |
+
+### head와 footer 앞에 붙일 컨벤션
+* Add - 파일 추가
+* Edit - 파일 수정
+* Delete - 파일 삭제
+* Chore - 그 외 내용관련 
