@@ -13,6 +13,7 @@
 ## Baekjoon
 
 - [백준1021 - 회전하는 큐](https://leonfather.tistory.com/2)
+- [백준1158 - 요세푸스 문제](https://leonfather.tistory.com/3)
 
 ## Commit 컨벤션
 ```
