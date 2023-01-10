@@ -14,6 +14,7 @@
 
 - [백준1021 - 회전하는 큐](https://leonfather.tistory.com/2)
 - [백준1158 - 요세푸스 문제](https://leonfather.tistory.com/3)
+- [백준2346 - 풍선 터뜨리기](https://leonfather.tistory.com/4)
 
 ## Commit 컨벤션
 ```
