@@ -24,4 +24,3 @@ struct Queue<Element> {
         return isEmpty ? nil: array.removeFirst()
     }
 }
-
