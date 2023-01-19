@@ -16,6 +16,7 @@
 - [백준1021 - 회전하는 큐](https://leonfather.tistory.com/2)
 - [백준1158 - 요세푸스 문제](https://leonfather.tistory.com/3)
 - [백준2346 - 풍선 터뜨리기](https://leonfather.tistory.com/4)
+- [백준17829 - 222-풀링](https://leonfather.tistory.com/8)
 
 
 ## 네트워크
@@ -23,6 +24,8 @@
 
 ## 운영체제
 > http://www.kocw.net/home/cview.do?cid=5e94ceee75415112
+
+- [운영체제 1주차](https://github.com/fatherLeon/BeMyself/blob/main/운영체제/운영체제%201주차%20-%20운영체제%20개요.md)
 
 
 ## Commit 컨벤션
