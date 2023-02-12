@@ -1,23 +1,26 @@
 # BeMyself
 
-## Programmers
+<details><summary><big>프로그래머스</big></summary>
 
-### Lv1
+#### Lv1
 - [옹알이 (2)](https://github.com/fatherLeon/BeMyself/tree/main/알고리즘/Programmers/옹알이%20(2))
 
-### Lv2
+#### Lv2
 - [귤 고르기](https://github.com/fatherLeon/BeMyself/tree/main/알고리즘/Programmers/귤%20고르기)
 - [롤케이크 자르기](https://github.com/fatherLeon/BeMyself/tree/main/알고리즘/Programmers/롤케이크%20자르기)
 - [할인 행사](https://github.com/fatherLeon/BeMyself/tree/main/알고리즘/Programmers/할인%20행사)
 - [피로도](https://github.com/fatherLeon/BeMyself/tree/main/알고리즘/Programmers/피로도)
 
-## Baekjoon
+</details>
+
+<details><summary><big>백준</big></summary>
 
 - [백준1021 - 회전하는 큐](https://leonfather.tistory.com/2)
 - [백준1158 - 요세푸스 문제](https://leonfather.tistory.com/3)
 - [백준2346 - 풍선 터뜨리기](https://leonfather.tistory.com/4)
 - [백준17829 - 222-풀링](https://leonfather.tistory.com/8)
 
+</details>
 
 ## 네트워크
 > http://www.kocw.net/home/cview.do?cid=6b984f376cfb8f70
