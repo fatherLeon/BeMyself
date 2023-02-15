@@ -29,6 +29,7 @@
 > http://www.kocw.net/home/cview.do?cid=5e94ceee75415112
 
 - [운영체제 1주차](https://github.com/fatherLeon/BeMyself/blob/main/운영체제/운영체제%201주차%20-%20운영체제%20개요.md)
+- [운영체제 2주차](https://github.com/fatherLeon/BeMyself/blob/main/운영체제/2주차%20-%20운영체제%20역사%2C%20프로세스.md)
 
 
 ## Commit 컨벤션
