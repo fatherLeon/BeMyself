@@ -6,7 +6,8 @@
 - [옹알이 (2)](https://github.com/fatherLeon/BeMyself/tree/main/알고리즘/Programmers/옹알이%20(2))
 - [둘만의 암호](https://github.com/fatherLeon/BeMyself/blob/main/알고리즘/Programmers/둘만의%20암호.playground/Contents.swift)
 - [카드 뭉치](https://leonfather.tistory.com/25)
-- [바탕화면 정리]()
+- [바탕화면 정리](https://leonfather.tistory.com/26)
+- [덧칠하기](https://leonfather.tistory.com/27)
 
 #### Lv2
 - [귤 고르기](https://github.com/fatherLeon/BeMyself/tree/main/알고리즘/Programmers/귤%20고르기)
