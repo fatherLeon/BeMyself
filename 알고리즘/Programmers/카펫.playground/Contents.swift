@@ -28,7 +28,7 @@ import Foundation
 //func calculatePerimeter(rect: (Int, Int)) -> Int {
 //    return (rect.0 + rect.1) * 2
 //}
-
+//
 //func solution(_ brown:Int, _ yellow:Int) -> [Int] {
 //    let area = yellow
 //    var yellowCaffet = (1, yellow)
